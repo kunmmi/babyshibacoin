@@ -672,7 +672,7 @@ input::-ms-selection {
 .container h1 {
     /* display: flex; */
     text-align: center;
-    font-family: Space;
+    font-family: vont;
     font-size: 3rem;
 }
 
@@ -984,6 +984,7 @@ footer p {
     height: 60px;
     margin-top: 20px;
     width: 250px;
+    font-size: 2rem;
     font-family: vont;
     /* border: 2px solid #; */
     font-weight: 700;
